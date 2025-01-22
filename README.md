@@ -4,7 +4,7 @@
 - Настроите маршрутизацию между клиентами.
 
 - underlay - iBGP
-![alt-dtp](https://github.com/vk1391/OTUS_VXLAN_L3VNI/blob/main/vxlan_l3vni.jpg)
+![alt-dtp](https://github.com/vk1391/OTUS_DC_VXLAN_L3VNI/blob/main/vxlan_l3vni.jpg)
 
 ### Настроите каждого клиента в своем VNI
 - конфигурация leaf1
